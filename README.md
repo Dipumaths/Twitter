@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis|Self-project[Apr ’25 - Jul ’25]
-•Developed anNLP-basedmodel to detectAI generated textandplagiarismwith higher accuracy & recall rate
+•Developed an NLP-based model to detect AI generated textand plagiarism with higher accuracy & recall rate
 
-•EmployedRandom Forest, XGBoost, Naive Bayes, RNN & LSTMmodels & attain98% recalland92% accuracy
+•Employed Random Forest, XGBoost, Naive Bayes, RNN & LSTM models & attained 98% recalland 92% accuracy
 
-•Furtherfine tuned BERT model, improved recall & accuracy to99% & 98%respectively usingWord2Vecembedding
+•Further fine-tuned BERT model, improved recall & accuracy to 99% & 98% respectively usingWord2Vece mbedding
